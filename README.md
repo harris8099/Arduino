@@ -1,4 +1,4 @@
-# 🌱 Arduino Projects
+# 🌱 Arduino and ESP32 Projects
 
 Welcome to my collection of Arduino projects! 🚀  
 This repository contains various creative projects built with Arduino and other electronic components. Explore and get inspired! 
